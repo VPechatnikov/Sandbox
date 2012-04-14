@@ -1,0 +1,5 @@
+C:\Git\YodleTest\YodleTest\bin\Debug\YodleTest.exe
+C:\Git\YodleTest\YodleTest\bin\Debug\YodleTest.pdb
+C:\Git\YodleTest\YodleTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Git\YodleTest\YodleTest\obj\x86\Debug\YodleTest.exe
+C:\Git\YodleTest\YodleTest\obj\x86\Debug\YodleTest.pdb
