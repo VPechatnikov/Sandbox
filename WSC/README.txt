@@ -1,1 +1,0 @@
-Write, Speak, Code!
